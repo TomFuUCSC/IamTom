@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Tom! </h1>
 
-<h3 align="center"> Comp Sci Student | Data Scientist | Developer Advocate </h3>
+<h3 align="center"> Comp Sci Student </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
